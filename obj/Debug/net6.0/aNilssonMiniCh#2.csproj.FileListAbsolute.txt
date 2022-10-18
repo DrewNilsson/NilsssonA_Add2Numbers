@@ -1,0 +1,30 @@
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/bin/Debug/net6.0/aNilssonMiniCh#2
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/bin/Debug/net6.0/aNilssonMiniCh#2.deps.json
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/bin/Debug/net6.0/aNilssonMiniCh#2.runtimeconfig.json
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/bin/Debug/net6.0/aNilssonMiniCh#2.dll
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/bin/Debug/net6.0/aNilssonMiniCh#2.pdb
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.csproj.AssemblyReference.cache
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.AssemblyInfoInputs.cache
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.AssemblyInfo.cs
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.csproj.CoreCompileInputs.cache
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.dll
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/obj/Debug/net6.0/refint/aNilssonMiniCh#2.dll
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.pdb
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.genruntimeconfig.cache
+/Users/drewnilsson/Documents/CodeStack 22-23/Combine/Assignments/Mini Challenges/aNilssonMiniCh#2/obj/Debug/net6.0/ref/aNilssonMiniCh#2.dll
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/bin/Debug/net6.0/aNilssonMiniCh#2
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/bin/Debug/net6.0/aNilssonMiniCh#2.deps.json
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/bin/Debug/net6.0/aNilssonMiniCh#2.runtimeconfig.json
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/bin/Debug/net6.0/aNilssonMiniCh#2.dll
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/bin/Debug/net6.0/aNilssonMiniCh#2.pdb
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.csproj.AssemblyReference.cache
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.AssemblyInfoInputs.cache
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.AssemblyInfo.cs
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.csproj.CoreCompileInputs.cache
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.dll
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/obj/Debug/net6.0/refint/aNilssonMiniCh#2.dll
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.pdb
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/obj/Debug/net6.0/aNilssonMiniCh#2.genruntimeconfig.cache
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAAdd2Numbers/aNilssonMiniCh#2/obj/Debug/net6.0/ref/aNilssonMiniCh#2.dll
